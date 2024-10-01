@@ -27,6 +27,7 @@ A passionate and self-driven **Aspiring Full Stack Python Developer** 💻 curre
 Feel free to connect with me on my social media accounts! I’m always happy to chat about programming, technology, and new opportunities in the field.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/saboornisha)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Saboornisha)
 
 ---
 
