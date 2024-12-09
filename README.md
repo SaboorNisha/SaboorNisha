@@ -4,6 +4,22 @@ A passionate and self-driven **Aspiring Full Stack Python Developer** 💻 curre
 
 ---
 
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=3rd+Year+Information+Technology+Student;Developing+innovative+solutions;Always+learning+new+technologies" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Trophy Stats -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SaboorNisha&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="SaboorNisha" />
+  </a>
+</p>
+
+---
+
 - 🌱 My Tech Stack: Proficient in Python, Django, Flask, HTML/CSS, and SQL.
 - 👯 I’m looking to collaborate with like-minded tech enthusiasts to build great software.
 - 📫 How to reach me: https://www.linkedin.com/in/saboor-nisha-s/
