@@ -47,5 +47,5 @@ Feel free to connect with me on my social media accounts! I’m always happy to 
 ### ❤ **LinkedIn Views and Followers**
 
 [![LinkedIn views](https://img.shields.io/badge/-Profile%20Views-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/saboornisha) **66**
-[![LinkedIn followers](https://img.shields.io/badge/-Followers-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/saboornisha) **167**
+[![LinkedIn followers](https://img.shields.io/badge/-Followers-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/saboornisha) **178**
 
